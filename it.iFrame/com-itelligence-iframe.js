@@ -46,7 +46,7 @@ define(["jquery","./com-itelligence-iframe-properties"], function($,properties) 
 			//if(layout.qHyperCube.qDataPages[0].qMatrix.length>=1 ) { 
 			//var dimensions = layout.qHyperCube.qDataPages[0].qMatrix.length;	
 			// || layout.qHyperCube.qDataPages[0].qMatrix.length) {	
-				$element.html('<iframe width="100%" height="100%" frameborder="0" src="'+ layout.qDef['url']+'" />') ; // <iframe src="'++'" />');
+				$element.html('<iframe width="100%" height="100%" name="it.iframe" frameborder="0" src="'+ layout.qDef['url']+'" />') ; // <iframe src="'++'" />');
 				
 			//}
 		}	
