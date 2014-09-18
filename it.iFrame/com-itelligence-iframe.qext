@@ -1,6 +1,6 @@
 {
-	"name" : "it.iframe",
-	"description" : "Iframe from itelligence nordic",
+	"name" : "it.iFrame",
+	"description" : "iFrame extension from itelligence nordic",
 	"icon" : "extension",
 	"type" : "visualization",
 	"version": "0.1",
